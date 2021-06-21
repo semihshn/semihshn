@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" align="right" width="400" height="250">
-
 ### Hi there, I'm Semih. :blush:
 
 ## Web Developer | Computer Engineering Student :call_me_hand:
