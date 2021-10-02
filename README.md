@@ -1,13 +1,13 @@
-### Hi there, I'm Semih. :blush:
+<h2 align="center"> Hi there, I'm Semih. :blush:</h2>
+<h1 align="center"> Web Developer | Computer Engineering Student :call_me_hand:</h1>
 
-## Web Developer | Computer Engineering Student :call_me_hand:
-
+<p align="center">
 <font color="orange">Coffee :coffee: is how I keep up with `< code />` </font>
+</p>
 
-<h3> - 📫 How to reach me:   </h3><br>
+<h3 align="center"> - 📫 How to reach me:   </h3><br>
 
-<p>
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/semih-%C5%9Fahan-8a7627176/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp; <a href="https://twitter.com/Semih87059904?s=08">
@@ -19,9 +19,10 @@
 <br />
 <br />
 
-<h3> 👩‍💻 Programing Languages</h3>
+<h3 align="center"> 👩‍💻 Programing Languages</h3>
+<br/>
 
-<p width="25"> 
+<p align="center"> 
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   &nbsp;&nbsp; 
@@ -62,7 +63,7 @@
 <br />
 <br />
 
-<p>
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=semihshn&theme=tokyonight" >
 
