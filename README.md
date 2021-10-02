@@ -4,36 +4,69 @@
 
 <font color="orange">Coffee :coffee: is how I keep up with `< code />` </font>
 
-### Reach out to me
+<h3> - 📫 How to reach me:   </h3><br>
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
-<br />
-<br />
-
-### Tech I use
-
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" />
-
-
+<p>
+  
+  <a href="https://www.linkedin.com/in/semih-%C5%9Fahan-8a7627176/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp; <a href="https://twitter.com/Semih87059904?s=08">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <br />
 <br />
 
+<h3> 👩‍💻 Programing Languages</h3>
+
+<p width="25"> 
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  &nbsp;&nbsp; 
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
+  &nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php" />
+  &nbsp;&nbsp; 
+  
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/angular-323330?style=for-the-badge&logo=angular&logoColor=CB221C" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/css-323330?style=for-the-badge&logo=css3&logoColor=blue" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/sass-323330?style=for-the-badge&logo=sass" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap" />
+  &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git" />
+  &nbsp;&nbsp; 
+
+
+</p>
+
+<br />
+<br />
+
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=semihshn&theme=tokyonight" >
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihshn&layout=compact&theme=tokyonight" >
 
-[twitter]: https://twitter.com/Semih87059904?s=08
-[linkedin]: https://www.linkedin.com/in/semih-%C5%9Fahan-8a7627176/
+</p>
+
