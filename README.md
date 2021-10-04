@@ -30,19 +30,19 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
   &nbsp;&nbsp;
 
-  <img src="https://img.shields.io/badge/php-290F1B?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white" />
   &nbsp;&nbsp; 
   
-  <img src="https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/JavaScript-363636?style=for-the-badge&logo=javascript" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/typescript-1c1c1c?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/typescript-363636?style=for-the-badge&logo=typescript" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/react-1c1c1c?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/react-363636?style=for-the-badge&logo=react" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/angular-1c1c1c?style=for-the-badge&logo=angular&logoColor=CB221C" />
+  <img src="https://img.shields.io/badge/angular-363636?style=for-the-badge&logo=angular&logoColor=CB221C" />
   &nbsp;&nbsp; 
 
   <img src="https://img.shields.io/badge/css-363636?style=for-the-badge&logo=css3&logoColor=blue" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/bootstrap-363636?style=for-the-badge&logo=bootstrap" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/git-dcdcdc?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/git-363636?style=for-the-badge&logo=git" />
   &nbsp;&nbsp; 
 
 
