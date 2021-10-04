@@ -30,31 +30,31 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
   &nbsp;&nbsp;
 
-  <img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-363636?style=for-the-badge&logo=php&logoColor=white" />
   &nbsp;&nbsp; 
   
   <img src="https://img.shields.io/badge/JavaScript-363636?style=for-the-badge&logo=javascript" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/typescript-363636?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/typescript-1874cd?style=for-the-badge&logo=typescript&logoColor=white" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/react-363636?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/react-000?style=for-the-badge&logo=react" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/angular-363636?style=for-the-badge&logo=angular&logoColor=CB221C" />
+  <img src="https://img.shields.io/badge/angular-fff?style=for-the-badge&logo=angular&logoColor=CB221C" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/css-363636?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/css-00bfff?style=for-the-badge&logo=css3&logoColor=blue" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/sass-363636?style=for-the-badge&logo=sass" />
+  <img src="https://img.shields.io/badge/sass-fff?style=for-the-badge&logo=sass" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/bootstrap-363636?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/bootstrap-9a32cd?style=for-the-badge&logo=bootstrap&logoColor=white" />
   &nbsp;&nbsp; 
 
-  <img src="https://img.shields.io/badge/git-363636?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git" />
   &nbsp;&nbsp; 
 
 
