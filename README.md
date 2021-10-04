@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
   &nbsp;&nbsp;
 
-  <img src="https://img.shields.io/badge/php-363636?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-68228b?style=for-the-badge&logo=php&logoColor=white" />
   &nbsp;&nbsp; 
   
-  <img src="https://img.shields.io/badge/JavaScript-363636?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/JavaScript-ffe413?style=for-the-badge&logo=javascript&logoColor=000" />
   &nbsp;&nbsp; 
 
   <img src="https://img.shields.io/badge/typescript-1874cd?style=for-the-badge&logo=typescript&logoColor=white" />
