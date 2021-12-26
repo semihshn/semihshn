@@ -58,6 +58,9 @@ for he likes this job. Passionate about software architecture and cloud computin
   <img src="https://img.shields.io/badge/angular-fff?style=for-the-badge&logo=angular&logoColor=CB221C" />
   &nbsp;&nbsp; 
 
+  <img src="https://img.shields.io/badge/Vue-f0fff0?style=for-the-badge&logo=vuedotjs&logoColor=239120" />
+  &nbsp;&nbsp; 
+
   <img src="https://img.shields.io/badge/css-00bfff?style=for-the-badge&logo=css3&logoColor=blue" />
   &nbsp;&nbsp; 
 
