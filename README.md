@@ -36,8 +36,11 @@ for he likes this job. Passionate about software architecture and cloud computin
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   &nbsp;&nbsp; 
+
+  <img src="https://img.shields.io/badge/Spring-239120?style=for-the-badge&logo=spring&logoColor=white" />
+  &nbsp;&nbsp; 
   
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/C%23-1874cd?style=for-the-badge&logo=c-sharp" />
   &nbsp;&nbsp;
 
   <img src="https://img.shields.io/badge/php-68228b?style=for-the-badge&logo=php&logoColor=white" />
