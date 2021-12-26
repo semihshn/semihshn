@@ -1,21 +1,19 @@
 <h2 align="center"> Hi there, I'm Semih. :blush:</h2>
 <h1 align="center"> Web Developer | Computer Engineering Student :call_me_hand:</h1>
 
-<p align="center">
+<div align="center">
 
 
 ### Summary
 
 <br/>
 
-<p align="center">
 Hard-working web developer with a flair for creating elegant solutions in the leastamount of time. Developed an HRMS(Human Resources Managment System) webapp, rent a car system, personal website private a company, and whatsapp clone
 for he likes this job. Passionate about software architecture and cloud computing.Regular attendee of web developer meetups, LeetCode and HackerRank.
-</p>
 
 <font color="orange">Coffee :coffee: is how I keep up with `< code />` </font>
 
-</p>
+</div>
 
 <h3 align="center"> - 📫 How to reach me:   </h3><br>
 
