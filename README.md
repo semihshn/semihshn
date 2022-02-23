@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Semih. :blush:</h2>
-<h1 align="center"> Web Developer | Computer Engineering Student :call_me_hand:</h1>
+<h1 align="center"> Software Developer :call_me_hand:</h1>
 
 <div align="center">
 
