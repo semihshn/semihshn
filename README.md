@@ -87,3 +87,5 @@ for he likes this job. Passionate about software architecture and cloud computin
 
 </p>
 
+![](https://komarev.com/ghpvc/?username=semihshn&color=blueviolet&style=for-the-badge&label=stalker:)))
+
