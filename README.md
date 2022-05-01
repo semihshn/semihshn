@@ -9,7 +9,7 @@ Software Developer 🤙
 Hard-working web developer with a flair for creating elegant solutions in the leastamount of time. Developed an HRMS(Human Resources Managment System) webapp, rent a car system, personal website private a company, and whatsapp clone for he likes this job. Passionate about software architecture and cloud computing.Regular attendee of web developer meetups, LeetCode and HackerRank. I'm busy with DevOps these days.
 
 `< code >` </br>
-Software is eating the world - Marc Andreessen(2011)  </br>
+'software is eating the world' - Marc Andreessen(2011)  </br>
 'correctly dividing a structure into parts is an art' - Chris Richardson(2018) </br>
 `</ code >`
 
