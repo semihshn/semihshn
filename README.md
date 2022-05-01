@@ -10,7 +10,8 @@ Hard-working web developer with a flair for creating elegant solutions in the le
 
 `< code >` </br>
 'software is eating the world' - Marc Andreessen(2011)  </br>
-'correctly dividing a structure into parts is an art' - Chris Richardson(2018) </br>
+'like much of software development, defining an
+architecture is more art than science.' - Chris Richardson(2018) </br>
 `</ code >`
 
 </div>
