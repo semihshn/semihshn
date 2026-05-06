@@ -33,7 +33,7 @@ Passionate about clean code, DDD, and TDD.
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot"/><br/>Spring Boot | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="36" height="36" alt="Kafka"/><br/>Kafka | <img src="https://img.shields.io/badge/Microservices-informational?style=flat-square" height="28" alt="Microservices"/><br/>Microservices |
+| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot"/><br/>Spring Boot | <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="28" alt="Kafka"/><br/>Kafka | <img src="https://img.shields.io/badge/Microservices-informational?style=flat-square" height="28" alt="Microservices"/><br/>Microservices |
 
 **Databases & Caching**
 
