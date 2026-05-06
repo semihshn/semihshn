@@ -25,39 +25,29 @@ Passionate about clean code, DDD, and TDD.
 
 **Languages**
 
-<p align="center">
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="36" height="36"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/apache_groovy/apache_groovy-icon.svg" alt="Groovy" width="36" height="36"/>&nbsp;
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/><br/>Java | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="36" height="36" alt="Kotlin"/><br/>Kotlin | <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white" height="28" alt="Groovy"/><br/>Groovy |
 
 **Backend & Architecture**
 
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="36" height="36"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="36" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/REST-API-blue?style=flat-square" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Microservices-architecture-informational?style=flat-square" height="28"/>&nbsp;
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot"/><br/>Spring Boot | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="36" height="36" alt="Kafka"/><br/>Kafka | <img src="https://img.shields.io/badge/Microservices-informational?style=flat-square" height="28" alt="Microservices"/><br/>Microservices |
 
 **Databases & Caching**
 
-<p align="center">
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="36" height="36"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="36" height="36"/>&nbsp;
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/><br/>MySQL | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/><br/>PostgreSQL | <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="36" height="36" alt="Redis"/><br/>Redis |
+| <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="36" height="36" alt="Elasticsearch"/><br/>Elasticsearch | | |
 
 **DevOps & Cloud**
 
-<p align="center">
-<img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="Docker" width="36" height="36"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="36" height="36"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="36" height="36"/>&nbsp;
-<img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="Linux" width="36" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git" height="28"/>
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" width="36" height="36" alt="Docker"/><br/>Docker | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes"/><br/>Kubernetes | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" height="36" alt="AWS"/><br/>AWS |
+| <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" width="36" height="36" alt="Linux"/><br/>Linux | <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" height="28" alt="Git"/><br/>Git | |
 
 ---
 
@@ -75,18 +65,12 @@ Passionate about clean code, DDD, and TDD.
 
 ## 📌 Top Repositories
 
-<div align="center">
-<a href="https://github.com/semihshn/gateway-server"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=semihshn&repo=gateway-server&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/semihshn/Credit-Application-System"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=semihshn&repo=Credit-Application-System&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a>
-</div>
+| | |
+|:---:|:---:|
+| [![gateway-server](https://github-readme-stats.vercel.app/api/pin/?username=semihshn&repo=gateway-server&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true)](https://github.com/semihshn/gateway-server) | [![Credit-Application-System](https://github-readme-stats.vercel.app/api/pin/?username=semihshn&repo=Credit-Application-System&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true)](https://github.com/semihshn/Credit-Application-System) |
+| [![MovieAPI](https://github-readme-stats.vercel.app/api/pin/?username=semihshn&repo=MovieAPI&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true)](https://github.com/semihshn/MovieAPI) | |
 
-<br clear="both"/>
-
-<div align="center">
-<a href="https://github.com/semihshn/MovieAPI"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=semihshn&repo=MovieAPI&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a>
-</div>
-
-<br/>
+---
 
 ## 📫 Connect
 
